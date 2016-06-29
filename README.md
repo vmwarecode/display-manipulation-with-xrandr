@@ -1,1 +1,0 @@
-# display-manipulation-with-xrandr
